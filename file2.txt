@@ -1,1 +1,2 @@
 This file 3
+adding line 2 in file2 by somebody else
